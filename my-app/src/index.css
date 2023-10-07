@@ -1,1 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Roboto:ital,wght@0,400;1,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #FFFFFF;
+  background-color:#0B0C10;
+  font-family: 'Roboto', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+}
+
+code {
+  font-family: 'source-code-pro', 'Menlo', 'Monaco', 'Consolas', 'Courier New',
+    monospace;
+}
 

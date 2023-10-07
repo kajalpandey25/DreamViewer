@@ -1,0 +1,25 @@
+.frame {
+    /* width: 100%; */
+    /* height: 100vh; */
+    border : 20px solid #aad3f4;
+    border-radius: 12px;
+  }
+  
+  .frame img {
+    width: 100%;
+    /* height: 89vh; */
+    /* border-radius: 12px; */
+
+  }
+  .frame2 {
+    width: 80%;
+    /* height: 80vh; */
+    border : 20px solid #599336;
+    border-radius: 12px;
+  }
+  
+  .frame2 img {
+    width: 100%;
+    /* height: 72vh; */
+    /* border-radius: 12px; */
+  }
