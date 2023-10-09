@@ -1,0 +1,20 @@
+.imageContainer {
+    width:100%;
+        overflow: hidden; 
+        position: relative;
+        top: 70px;
+        background:#0B0C10;
+        padding: 30px;
+        border-radius: 25px;
+        
+        
+      }
+      
+      .image {
+        width: 90%;
+       height: auto;
+        object-fit: cover;
+       
+      
+       
+      }

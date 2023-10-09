@@ -1,0 +1,14 @@
+.imageContainer {
+    overflow: hidden; 
+    position: absolute;
+    bottom:0px;
+    right:0;
+    background:#0B0C10;
+    padding: 40px;
+    border-radius: 25px 25px 0 0;  
+  }
+  .image {
+    width: 100%;
+    height: auto;
+    object-fit: cover; 
+  }

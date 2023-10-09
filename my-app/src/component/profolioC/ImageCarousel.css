@@ -1,0 +1,18 @@
+/* src/ImageCarousel.css */
+
+.image-carousel {
+    width: 80%;
+    height: 60vh;
+    margin: 0 auto;
+}
+
+.slick-center img {
+    transform: scale(1.2); /* Adjust the scale factor for the center image */
+    transition: transform 0.5s ease;
+}
+
+.slick-center + .slick-slide img,
+.slick-center ~ .slick-slide img {
+    transform: scale(1); /* Reset the scale for adjacent images */
+    transition: transform 0.5s ease;
+}

@@ -1,0 +1,28 @@
+/* .navigationOption {
+  list-style-type: none;
+   display: flex;
+justify-content:space-evenly;
+
+}
+
+
+.navigationOption li a {
+ color:azure;
+  text-decoration: none;
+font-family: DM Serif ;
+}
+.active{
+   color:rgba(232, 5, 43, 0.918)!important;
+  font-weight: bold !important;
+}
+ */
+
+ .transparentAppbar {
+    background-color: transparent;
+    transition: background-color 0.3s ease-out;
+  }
+  
+  .greyAppbar {
+    background-color: #303030; /* Set your desired grey color */
+    transition: background-color 0.3s ease-in;
+  }
